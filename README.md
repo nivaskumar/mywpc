@@ -1,0 +1,2 @@
+# mywpc
+Wordpress C Pugin
