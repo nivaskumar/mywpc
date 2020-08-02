@@ -1,0 +1,43 @@
+.entry-content .schedule_front h3.schedule_front_title{
+	font-size: 24px;
+    color: #A31111;
+    margin: 15px 0;
+    font-family: inherit;
+    font-weight: bold;
+    text-align: left;
+    text-transform: uppercase;
+}
+.entry-content .schedule_front tr{
+	display: table-row;
+	padding: 5px 0 5px 10px;
+    font-weight: bold;
+	border-top: 1px solid #ddd;
+}
+.course-tab-content .btn-default{
+    background: #4a9470;
+    border: 1px solid #4a9470;
+    text-transform: uppercase;
+    color: white;
+    width: 100%;
+    max-width: 205px;
+    font-size: 15px;
+    border-radius: 3px;
+    padding: 20px 0px;
+}
+.schedule_main_div{
+-webkit-box-shadow: 2px -1px 5px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px -1px 5px -2px rgba(0,0,0,0.75);
+box-shadow: 2px -1px 5px -2px rgba(0,0,0,0.75);
+    margin: 20px 0px 0px 0px;
+    padding: 10px 5px;
+    max-width: 350px;
+}
+.schedule_main_div label {
+    width: 50%;
+    min-width: 50%;
+    display: table-cell;
+}
+.schedule_main_div li {
+    width: 100%;
+    display: table;
+}
